@@ -1,0 +1,23 @@
+section {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    
+}
+
+
+img {
+    height: 400px;
+    width: 400px;
+}
+
+p {
+    font-size: 3rem;
+    font-weight: bolder;
+    font-style: italic;
+    text-decoration: overline;
+}
+
+button {
+    display: none;
+}
